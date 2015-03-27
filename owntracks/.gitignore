@@ -6,3 +6,8 @@ npm-debug.log
 .DS_Store
 *.swp
 *.swo
+
+## File-based project format:
+*.iml
+*.ipr
+*.iws
